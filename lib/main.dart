@@ -8,7 +8,7 @@ class CalculatorApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'iPhone Calculator',
+      title: 'Calculator',
       theme: ThemeData(
         brightness: Brightness.dark,
         primarySwatch: Colors.orange,
